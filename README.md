@@ -259,8 +259,8 @@ If you are using this theme for any website, feel free to list the website here.
 - <https://mrizkimaulidan.vercel.app/>
 - <https://www.yukizr.com/>
 - <http://liamdalg.co.uk/>
-- <http://pratham-mishra.in/>
 - <https://chriscodes.net/>
+- <https://journeytolunar.com/>
 - <https://ruiper.es/>
 - <https://www.magicplace.de/>
 - <https://bskdany.com/>
@@ -270,6 +270,7 @@ If you are using this theme for any website, feel free to list the website here.
 - <https://jmbhughes.com/>
 - <https://www.boniface.me/>
 - <https://meanii.dev/>
+- <https://unixsec.io/>
 
 ## Support
 
